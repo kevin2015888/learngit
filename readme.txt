@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git is best.
 Git is best2.
 git branch new.
+create branch feature1.
